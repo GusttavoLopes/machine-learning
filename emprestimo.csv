@@ -1,4 +1,4 @@
-montante,idade,salario,tem_conta,empresta
+valor,idade,salario,possui_conta,empresta
 Medio,Senior,Baixo,Sim,Nao
 Medio,Senior,Baixo,Nao,Nao
 Baixo,Senior,Baixo,Sim,Sim
